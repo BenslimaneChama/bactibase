@@ -1,0 +1,51 @@
+/* Ensure body and html fill the viewport */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  opacity: 1 !important;  /* Ensure full opacity */
+}
+
+/* Make the container-fluid fill the remaining space */
+.container-fluid {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(to bottom, rgba(46, 46, 46, 1) 5%, rgba(178, 34, 34, 0.2) 100%); /* Refined gradient */
+}
+
+/* Ensure the main panel fills the available space */
+.mainPanel {
+  flex: 1;
+  padding-bottom: 50px; /* Optional padding at the bottom */
+}
+
+/* Adjust the navbar */
+.navbar {
+  background-color: #800000; /* Dark red background */
+  border-color: #990000;     /* Slightly lighter red border */
+}
+
+.navbar .navbar-brand,
+.navbar .navbar-nav > li > a {
+  color: #FFFFFF !important; /* White text for navbar links */
+}
+
+/* Tabs styling */
+.nav-tabs > li > a {
+  background-color: #990000; /* Darker red for tabs */
+  color: #FFFFFF !important;
+}
+
+.nav-tabs > li.active > a {
+  background-color: #FF0000 !important; /* Bright red for active tab */
+  color: #FFFFFF !important;
+  border-color: #990000 !important;
+}
+
+/* Hide any unnecessary overlay */
+.overlay {
+  display: none;  
+}
