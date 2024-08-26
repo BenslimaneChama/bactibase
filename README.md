@@ -28,22 +28,22 @@ Bactibase is a tool that aims to make learning about bacteria more engaging thro
 
 # How to Use
 
-**Access the App:** You can access the Bactibase web app through this link: [Bactibase Web App](https://bactibase.shinyapps.io/bactibase/).
-**Explore the Bacteria:**
-**Pictures:** Click on the images of the bacteria to see a larger view.
-**Family Tree:** Navigate through the family tree to understand the relationships between the bacteria.
-**Information Section:** Use the drop-down menus or buttons provided to select the type of information you want to view, such as genomic data, characteristics, or other relevant details such as antibiotic resistance and pathogenicity.
-**Navigate Between Sections:** The app is designed to be intuitive, allowing you to easily move between different sections by clicking on the provided tabs or links. As the main developer of the app, I look forward to adding more bacteria data in another perspective such as agronomic perspective traiting symbiotic parameters.
+- **Access the App:** You can access the Bactibase web app through this link: [Bactibase Web App](https://bactibase.shinyapps.io/bactibase/).
+- **Explore the Bacteria:**
+- **Pictures:** Click on the images of the bacteria to see a larger view.
+- **Family Tree:** Navigate through the family tree to understand the relationships between the bacteria.
+- **Information Section:** Use the drop-down menus or buttons provided to select the type of information you want to view, such as genomic data, characteristics, or other relevant details such as antibiotic resistance and pathogenicity.
+- **Navigate Between Sections:** The app is designed to be intuitive, allowing you to easily move between different sections by clicking on the provided tabs or links. As the main developer of the app, I look forward to adding more bacteria data in another perspective such as agronomic perspective traiting symbiotic parameters.
 
 
 # Bacteria Information
 
 The app includes five bacteria, each with a detailed profile. The profiles cover:
-**Taxonomy:** Classification and naming.
-**Genomic Information:** Data on the genome of each bacterium.
-**Morphology:** Structural details shown in a carousel of different images(microscopic,petri dish colony formation, etc …)
-**Pathogenicity:** Information on how these bacteria cause disease.
-**Mechanism of Resistance to antibiotic’s treatment:** Their mechanisme of diffence against antibiotic effects.
+- **Taxonomy:** Classification and naming.
+- **Genomic Information:** Data on the genome of each bacterium.
+- **Morphology:** Structural details shown in a carousel of different images(microscopic,petri dish colony formation, etc …)
+- **Pathogenicity:** Information on how these bacteria cause disease.
+- **Mechanism of Resistance to antibiotic’s treatment:** Their mechanisme of diffence against antibiotic effects.
 
 
 # Technical Details
