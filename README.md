@@ -53,7 +53,7 @@ Technology Used: The Bactibase web app is built using R language and Shiny packa
 - Clone of repository: you can clone the repository using : 
 ```
 git clone https://github.com/BenslimaneChama/bactibase.git
-cd diabeta
+cd bactibase
 ```
 
 
