@@ -1,5 +1,6 @@
 # BACTIBASE WEB APP:
 
+![LOGO](/BenslimaneChama/bactibase/www/logo_bactibase.png)
 
 Welcome to **Bactibase**, a user-friendly web application designed to introduce and explore information on five highly represented bacterias in Morocco. The app provides visual representations, including pictures, a family tree, and detailed information on various aspects of these bacteria, such as their **genomic characteristics** and **antibiotic resistance**.
 
